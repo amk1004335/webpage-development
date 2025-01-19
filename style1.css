@@ -1,0 +1,54 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    margin:0;
+    padding:0;
+    background:none;
+    
+        
+    }
+    header{
+        background-color:burlywood;
+        color:black;
+        padding: 0%;
+        text-align: left;
+    
+
+    }
+headerh1{
+    font-size: larger;
+}
+article{
+    padding:10px;
+    background: darkolivegreen;
+    margin: 0%;
+    max-width:800px;
+
+}
+article img{
+    display: block;
+    margin:20px;
+    max-width: 800px;
+    height: auto;
+}
+footer{
+    text-align: center;
+    background-color:black;
+    color:red;
+    padding: 50px;;
+    font-size:large;
+}
+a{
+    color: blue;
+    text-decoration:none;
+}
+a:hover {
+    color: darkblue;
+    text-decoration:underline ;
+}
+a:visited{
+    color:purple;
+}
+a:active{
+    color:red;
+}
